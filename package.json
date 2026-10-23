@@ -1,0 +1,12 @@
+{
+  "name": "test-worker-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fixture for exercising the Autoscan uncompiled-language worker",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  }
+}
